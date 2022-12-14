@@ -1,0 +1,8 @@
+.query-card {
+  min-width: 600px;
+  padding: 16px;
+}
+
+.query-card .MuiFormControl-root {
+  margin: 8px 0;
+}
